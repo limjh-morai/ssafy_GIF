@@ -2,29 +2,27 @@
 
 
 ### Figure 81 신호등 없는교차로
-![그림1](https://user-images.githubusercontent.com/120444462/218620370-b4ae6d61-361a-4315-9882-6de7ad40a660.gif)
 
 
 
 ### Figure 82 딥 러닝 중인 챠랑
-![Figure 82 딥 러닝 중인 챠랑](https://user-images.githubusercontent.com/120444462/218620508-68d3afc3-9f51-4a6d-b707-3061cfc6a31d.gif)
+![ezgif com-video-to-gif (5)](https://user-images.githubusercontent.com/120444462/218621065-cdd2f7aa-f768-41c2-b02e-974fa4066bf1.gif)
 
 
 
 ### Figure  주차된 차량 호출 1
-![Figure  주차된 차량 호출 1](https://user-images.githubusercontent.com/120444462/218620592-3be3a82a-10e2-4df8-94ea-020dd308f24d.gif)
+![ezgif com-optimize](https://user-images.githubusercontent.com/120444462/218623003-db14f054-1a89-441a-b172-8f0abcb06c28.gif)
 
 
 
 ### Figure  주차된 차량 호출 2
-![Figure  주차된 차량 호출 2](https://user-images.githubusercontent.com/120444462/218620692-d3c67060-4d35-4ac0-b54a-dadb496de2b6.gif)
+![ezgif com-optimize](https://user-images.githubusercontent.com/120444462/218622251-1e784297-5a06-4186-86ee-e8f6556d62b5.gif)
 
 
 
 ### Figure  자율주행택시가 호출명령을 수신하여 승객의 위치까지 주행하는 모습
-![Figure  자율주행택시가 호출명령을 수신하여 승객의 위치까지 주행하는 모습](https://user-images.githubusercontent.com/120444462/218620770-987cc5b9-bac7-4e81-99d6-04b75fd7f291.gif)
+![ezgif com-video-to-gif](https://user-images.githubusercontent.com/120444462/218621327-03835900-5384-41d0-95bb-f3ad549a20ef.gif)
 
 
 
 ### Figure  승객이 탑승 후 목적지까지 주행하는 모습
-![Figure  승객이 탑승 후 목적지까지 주행하는 모습](https://user-images.githubusercontent.com/120444462/218620839-bb2e953c-ab15-4b28-a604-9c4b57612b75.gif)
