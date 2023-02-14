@@ -2,6 +2,7 @@
 
 
 ### Figure 81 신호등 없는교차로
+![신호등 없는 교차로](https://user-images.githubusercontent.com/120444462/218630484-93477a24-2282-4783-a7e2-956567ba67e3.gif)
 
 
 
@@ -26,3 +27,4 @@
 
 
 ### Figure  승객이 탑승 후 목적지까지 주행하는 모습
+![승객하차지점주행](https://user-images.githubusercontent.com/120444462/218631042-7f20e572-ab0d-4b1a-a53d-960e2e923b54.gif)
