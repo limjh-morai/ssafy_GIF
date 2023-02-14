@@ -6,7 +6,7 @@
 
 
 
-### Figure 82 딥 러닝 중인 챠랑
+### Figure 82 딥 러닝 중인 차랑
 ![ezgif com-video-to-gif (5)](https://user-images.githubusercontent.com/120444462/218621065-cdd2f7aa-f768-41c2-b02e-974fa4066bf1.gif)
 
 
